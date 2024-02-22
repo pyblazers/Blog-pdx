@@ -1,2 +1,2 @@
 # Blog-pdx
-A framework for a Online Blog
+Ruby Online Blog
